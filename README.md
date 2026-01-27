@@ -11,5 +11,5 @@ I am loving to learn more about Java.
 ## Fun Facts:
 - I love Music
 - I have one dog
-- I dont like Anime
+- I love swimming
 - Hobbies: Gym, learning, building things
