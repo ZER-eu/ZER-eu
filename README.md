@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ZER-eu/ZER-eu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Dima, I love to learn new stuff thats why my motto is "Love going Big". Currenctly im mainly learning Java, html, css and js. 
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
+If an idea pops into my head, chances are I'll build it and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am loving to learn more about Java. 
+
+
+## Fun Facts:
+- I love Music
+- I have one dog
+- I dont like Anime
+- Hobbies: Gym, learning, building things
