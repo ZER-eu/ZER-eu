@@ -1,15 +1,10 @@
 ## Hi there 👋
 
-My Name is Dima, I love to learn new stuff thats why my motto is "Love going Big". Currenctly im mainly learning Java, html, css and js. 
+Mein Ziel – Fachinformatik für Anwendungsentwicklung
 
-I design and build whatever I can imagine.
-If an idea pops into my head, chances are I'll build it and ship it.
+Berufliche Erfahrungen habe ich zunächst im medizinischen Bereich gesammelt; eine strukturierte und verantwortungsbewusste Arbeitsweise sind für mich heute selbstverständlich. Ich habe gelernt, Abläufe präzise zu beobachten, Aufgaben termingerecht umzusetzen und sorgfältig zu dokumentieren.
 
-I am loving to learn more about Java. 
+Seit einiger Zeit baue ich meine Kenntnisse in der IT selbstständig aus.
+Aktuell beherrsche ich selbstbewusst die Basics in Python, JavaScript, Lua, HTML/CSS, Git/GitHub, Jira, Windows und MS Office.
 
-
-## Fun Facts:
-- I love Music
-- I have one dog
-- I love swimming
-- Hobbies: Gym, learning, building things
+Meine bisherigen Erfahrungen und Kenntnisse möchte ich nun in meine Leidenschaft, den IT-Bereich, einbringen und mich hier professionalisieren. Ich bin mehr als bereit, mich weiterzuentwickeln, praktische Erfahrungen zu sammeln und mich engagiert für ein gemeinsames Wachstum einzusetzen.
