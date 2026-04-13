@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mein Ziel – Fachinformatik für Anwendungsentwicklung
+Mein Ziel – Fachinformatik
 
 Berufliche Erfahrungen habe ich zunächst im medizinischen Bereich gesammelt; eine strukturierte und verantwortungsbewusste Arbeitsweise sind für mich heute selbstverständlich. Ich habe gelernt, Abläufe präzise zu beobachten, Aufgaben termingerecht umzusetzen und sorgfältig zu dokumentieren.
 
